@@ -9,7 +9,7 @@ An Android companion application custom-built for **Antoine Boisclair's Elden Ri
 ## 🚀 Download & Installation
 Get ready for the boss fight by downloading the latest version:
 1. Head over to the **[Releases](../../releases)** section.
-2. Download the latest `app-release.apk` or `app-release.jar`.
+2. Download the latest `elden-companion.apk` or `elden-companion.msi`.
 3. Open the file on your Android device to install it (ensure "Install from Unknown Sources" is enabled).
 
 *Alternatively, grab it directly from our [GitHub Pages Site](YOUR_GITHUB_PAGES_LINK_HERE).*
