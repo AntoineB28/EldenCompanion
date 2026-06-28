@@ -12,4 +12,4 @@ Get ready for the boss fight by downloading the latest version:
 2. Download the latest `EldenCompanion.apk` or `EldenCompanion.msi` or `EldenCompanion.exe`.
 3. Open the file on your Android device to install it (ensure "Install from Unknown Sources" is enabled).
 
-*Alternatively, grab it directly from our [GitHub Pages Site](YOUR_GITHUB_PAGES_LINK_HERE).*
+*Alternatively, grab it directly from our [GitHub Pages Site](https://antoineb28.github.io/EldenCompanion/).*
